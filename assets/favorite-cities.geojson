@@ -1,0 +1,11 @@
+{
+    "type": "FeatureCollection",
+    "name": "favorite-cities",
+    "features": [
+        {"type":"Feature","properties":{"id":"Amsterdam", "rank": 4}, "geometry": {"type":"Point","coordinates":[4.9041, 52.3676]}},
+        {"type":"Feature","properties":{"id":"The Hague", "rank": 2}, "geometry": {"type":"Point","coordinates":[4.3007, 52.0705]}},
+        {"type":"Feature","properties":{"id":"Rotterdam", "rank": 3}, "geometry": {"type":"Point","coordinates":[4.4777, 51.9244]}},
+        {"type":"Feature","properties":{"id":"Almere", "rank": 5}, "geometry": {"type":"Point","coordinates":[5.2647, 52.3508]}},
+        {"type":"Feature","properties":{"id":"Utrecht", "rank": 1}, "geometry": {"type":"Point","coordinates":[5.1214, 52.0907]}}
+    ]
+}
